@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("BMI Calculator"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+060bfce0e7b57c63fb6048e72bd918ec982c14fd"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("BMI Calculator"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("BMI Calculator"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

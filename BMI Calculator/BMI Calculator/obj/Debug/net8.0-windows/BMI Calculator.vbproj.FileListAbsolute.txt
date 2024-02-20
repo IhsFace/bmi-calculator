@@ -14,3 +14,4 @@ C:\Users\ihsaa\Projects\bmi-calculator\BMI Calculator\BMI Calculator\obj\Debug\n
 C:\Users\ihsaa\Projects\bmi-calculator\BMI Calculator\BMI Calculator\obj\Debug\net8.0-windows\BMI Calculator.pdb
 C:\Users\ihsaa\Projects\bmi-calculator\BMI Calculator\BMI Calculator\obj\Debug\net8.0-windows\BMI Calculator.genruntimeconfig.cache
 C:\Users\ihsaa\Projects\bmi-calculator\BMI Calculator\BMI Calculator\obj\Debug\net8.0-windows\ref\BMI Calculator.dll
+C:\Users\ihsaa\Projects\bmi-calculator\BMI Calculator\BMI Calculator\obj\Debug\net8.0-windows\BMI Calculator.sourcelink.json
